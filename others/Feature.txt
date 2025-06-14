@@ -1,0 +1,10 @@
+1. Logo
+2. Naviagation Bar
+3. Main Carousel(services information) or Header Section(Goal)
+4. Speciality 
+5. About Us
+6. Our Services
+8. Our Team
+9. Testimonials
+10. Clients
+11. Footer
